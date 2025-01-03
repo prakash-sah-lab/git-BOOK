@@ -83,6 +83,7 @@ This command makes you to run two commands, one adding all the files and commit 
 ### Pushing Repo Code
 
 `git push origin master `
+`git push origin <custom_branch>`
 
 This is used to push commits made on your local branch to a remote repository.
 
